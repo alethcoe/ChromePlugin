@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChromePluginExample", "ChromePluginExample\ChromePluginExample.csproj", "{44DD39D3-D058-4AB4-B329-34D0F84CD15A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChromePluginWebApi", "ChromePluginWebApi\ChromePluginWebApi.csproj", "{8E0EF8A3-D178-479E-8333-469B07A44A51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44DD39D3-D058-4AB4-B329-34D0F84CD15A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44DD39D3-D058-4AB4-B329-34D0F84CD15A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44DD39D3-D058-4AB4-B329-34D0F84CD15A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44DD39D3-D058-4AB4-B329-34D0F84CD15A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E0EF8A3-D178-479E-8333-469B07A44A51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E0EF8A3-D178-479E-8333-469B07A44A51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E0EF8A3-D178-479E-8333-469B07A44A51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E0EF8A3-D178-479E-8333-469B07A44A51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {357F1712-6A63-4CAD-90C3-11FF498107DD}
+	EndGlobalSection
+EndGlobal

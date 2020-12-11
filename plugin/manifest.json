@@ -1,0 +1,16 @@
+{
+    "manifest_version": 2,
+    "name": "Test Form Filler",
+    "description": "Populate fields and call an api",
+    "homepage_url": "http://www.lethcode.com",
+    "version": "1.0",
+    "browser_action": {
+        "default_title": "Click here to load form data!",
+        "default_popup": "index.html"
+    },
+    "permissions": [
+        "tabs",
+        "http://*/*",
+        "https://*/*"
+    ]
+}
